@@ -1,4 +1,4 @@
-package ch01;
+package type;
 
 public class HelloJava {
     public static void main(String[] args) {
