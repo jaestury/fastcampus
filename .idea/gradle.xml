@@ -4,14 +4,13 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="jbr-11" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/oop-practice" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle/gradle-7.4.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/oop-practice" />
           </set>
         </option>
       </GradleProjectSettings>
