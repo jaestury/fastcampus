@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbf60bef-01e6-4241-994e-6de2f7699c8c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/BitOperationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/ConditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/LogicalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/OperatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/condition/IfElseIfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/condition/IfElseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/condition/SwitchCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/condition/SwitchCaseTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/condition/condition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/condition/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
@@ -78,7 +75,7 @@
       <recent name="C:\Users\김재현\fastcampus\chapter1\src\main\java\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BitOperationTest">
+  <component name="RunManager" selected="애플리케이션.SwitchCaseTest2">
     <configuration name="BitOperationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator.BitOperationTest" />
       <module name="chapter1.main" />
@@ -92,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator.ConditionTest" />
+    <configuration name="IfElseIfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.IfElseIfTest" />
       <module name="chapter1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Calculator.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator.LogicalTest" />
+    <configuration name="IfElseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.IfElseTest" />
       <module name="chapter1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Calculator.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator.OperatorTest" />
+    <configuration name="SwitchCaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.SwitchCaseTest" />
       <module name="chapter1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Calculator.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mixCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator.mixCal" />
+    <configuration name="SwitchCaseTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.SwitchCaseTest2" />
       <module name="chapter1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Calculator.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.SwitchCaseTest2" />
+        <item itemvalue="애플리케이션.SwitchCaseTest" />
+        <item itemvalue="애플리케이션.IfElseIfTest" />
+        <item itemvalue="애플리케이션.IfElseTest" />
         <item itemvalue="애플리케이션.BitOperationTest" />
-        <item itemvalue="애플리케이션.ConditionTest" />
-        <item itemvalue="애플리케이션.LogicalTest" />
-        <item itemvalue="애플리케이션.OperatorTest" />
-        <item itemvalue="애플리케이션.mixCal" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +166,7 @@
       <workItem from="1666789075199" duration="46000" />
       <workItem from="1666789133596" duration="201000" />
       <workItem from="1666933499517" duration="1410000" />
-      <workItem from="1667280498254" duration="7724000" />
+      <workItem from="1667280498254" duration="14175000" />
     </task>
     <servers />
   </component>
