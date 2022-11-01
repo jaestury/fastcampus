@@ -5,24 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbf60bef-01e6-4241-994e-6de2f7699c8c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/cal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type/TypeConversionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/BitOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/ConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/LogicalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/OperatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/img_6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/type/TypeConversionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/type/TypeConversionTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/type/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/type/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/type.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/type/type.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/type/TypeConversionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/type/TypeConversionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator/cal.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator/cal.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +78,13 @@
       <recent name="C:\Users\김재현\fastcampus\chapter1\src\main\java\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.mixCal">
-    <configuration name="ConstantTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="type.ConstantTest" />
+  <component name="RunManager" selected="애플리케이션.BitOperationTest">
+    <configuration name="BitOperationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator.BitOperationTest" />
       <module name="chapter1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="type.*" />
+          <option name="PATTERN" value="Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalVariableInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="type.LocalVariableInter" />
+    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator.ConditionTest" />
       <module name="chapter1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="type.*" />
+          <option name="PATTERN" value="Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeConversionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="type.TypeConversionTest" />
+    <configuration name="LogicalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator.LogicalTest" />
       <module name="chapter1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="type.*" />
+          <option name="PATTERN" value="Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeConversionTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="type.TypeConversionTest2" />
+    <configuration name="OperatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator.OperatorTest" />
       <module name="chapter1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="type.*" />
+          <option name="PATTERN" value="Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BitOperationTest" />
+        <item itemvalue="애플리케이션.ConditionTest" />
+        <item itemvalue="애플리케이션.LogicalTest" />
+        <item itemvalue="애플리케이션.OperatorTest" />
         <item itemvalue="애플리케이션.mixCal" />
-        <item itemvalue="애플리케이션.TypeConversionTest2" />
-        <item itemvalue="애플리케이션.TypeConversionTest" />
-        <item itemvalue="애플리케이션.ConstantTest" />
-        <item itemvalue="애플리케이션.LocalVariableInter" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,7 @@
       <workItem from="1666789075199" duration="46000" />
       <workItem from="1666789133596" duration="201000" />
       <workItem from="1666933499517" duration="1410000" />
-      <workItem from="1667280498254" duration="2737000" />
+      <workItem from="1667280498254" duration="7724000" />
     </task>
     <servers />
   </component>
