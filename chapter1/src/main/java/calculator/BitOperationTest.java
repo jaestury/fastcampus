@@ -1,4 +1,4 @@
-package Calculator;
+package calculator;
 
 public class BitOperationTest {
     public static void main(String[] args) {

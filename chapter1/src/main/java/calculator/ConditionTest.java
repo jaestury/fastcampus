@@ -1,4 +1,4 @@
-package Calculator;
+package calculator;
 
 import java.util.Scanner;  // import 는 scanner가 java.util 라이브러리 안에 들어있다는 것을 알려준다.
 
